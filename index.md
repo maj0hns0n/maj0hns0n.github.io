@@ -4,7 +4,7 @@ layout: default
 
 This is the content I've developed for my website:
 
-[Basic Graphs Assignment (html)](/exampleContent/index.md)
+[Basic Graphs Assignment](/exampleContent/index.md)
 
 ### Small image
 
