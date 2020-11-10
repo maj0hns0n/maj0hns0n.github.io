@@ -8,7 +8,7 @@ This is the content I've developed for my website:
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![My Pic](/pics/IMG_6196_Facetune_03-05-2020-21-55-54.jpeg)
 
 ### Large image
 
