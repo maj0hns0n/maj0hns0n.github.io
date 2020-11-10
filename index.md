@@ -1,5 +1,5 @@
 ---
-title: Melissa Johnson's GitHub 
+layout: default
 ---
 
 This is the content I've developed for my website:
